@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently an MCA student at Nirma University <br>fun fact i love playing physical sports
+Hi, I’m Bunny 👋 <br>
+I’m an MCA student with a strong interest in programming, data structures, and problem-solving. I enjoy building clean, efficient solutions and continuously improving my technical skills.
+<br>
+I’m currently focusing on Python, DSA, and core computer science subjects, and I love learning by experimenting, practicing, and building small projects. <br>fun fact i love playing physical sports
 
 
 ## 🌐 Socials:

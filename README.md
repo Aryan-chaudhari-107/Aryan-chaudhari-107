@@ -2,8 +2,12 @@
 I am an MCA student at Nirma University, deeply passionate about the world of computer science and technology. I enjoy exploring how software, systems, and data work together to solve real-world problems.<br><br>I value strong fundamentals, logical thinking, and continuous growth, and I aspire to build a meaningful career in the IT field through dedication and consistent learning.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-chaudhari-107/Aryan-chaudhari-107/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-chaudhari-107/Aryan-chaudhari-107/output/pacman-dark.svg">
+    <img src="https://raw.githubusercontent.com/Aryan-chaudhari-107/Aryan-chaudhari-107/output/pacman.svg" alt="GitHub Contribution Pacman">
+  </picture>
 </p>
+
 
 
 ## 🌐 Socials:

@@ -2,7 +2,7 @@ name: GitHub Contribution Pacman
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Aryan-chaudhari-107
+          animation: pacman   # 🔥 THIS LINE IS THE FIX
           outputs: |
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark

@@ -1,6 +1,10 @@
 # 💫 About Me:
 I am an MCA student at Nirma University, deeply passionate about the world of computer science and technology. I enjoy exploring how software, systems, and data work together to solve real-world problems.<br><br>I value strong fundamentals, logical thinking, and continuous growth, and I aspire to build a meaningful career in the IT field through dedication and consistent learning.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhari-107/Aryan-chaudhari-107/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bunnyy_y__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chaudhari-aka-bunny) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Former_Math_8372) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32112743/aryan-chaudhari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bunny_5123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan07chaudhari@gmail.com) 
